@@ -1,5 +1,5 @@
 # verytopsecretfolder
-xxx
+danger
 
 Hello world. 
 This is true hacker code:
